@@ -4,10 +4,14 @@ public class Novel extends Book{
     private String genre;
     private byte rating;
 
+
+
     public Novel(String genre){
-        super(12,"Supernatural");
+        super(128,"Supernatural");
         this.genre = genre;
     }
+
+
     public String getGenre() {
         return genre;
     }

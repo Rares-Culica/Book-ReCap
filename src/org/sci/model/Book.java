@@ -11,14 +11,16 @@ public class Book {
     private String title;
     private String isbn;
     private String editura;
-    private Novel Novel;
 
+    public Book(Double price){
+        this.price = price;
+    }
     public Book(String title){
         this.title = title;
     }
 
     public Book(int nrPages1){
-        this.nrPages = nrPages1*100;
+        this.nrPages = nrPages1;
     }
 
     public Book(int nrPages1, String title){
