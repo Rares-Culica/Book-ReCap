@@ -3,6 +3,7 @@ package org.sci;
 import org.sci.model.Atlas;
 import org.sci.model.Book;
 import org.sci.model.Novel;
+import org.sci.modelother.Mystery;
 
 public class Main {
 
@@ -23,7 +24,8 @@ public class Main {
             Book b12 = new Book(121, "Reptile");
 
             Novel novel = new Novel("Fiction");
-            Atlas atlas = new Atlas("Maps");
+            Atlas atlas = new Atlas("Maps","Universal");
+            Mystery mystery = new Mystery("Sci-Fi");
 
 
 
@@ -34,5 +36,6 @@ public class Main {
             System.out.println("editura 2: " + book2.getEditura());
             System.out.println(novel.getGenre() + " " + novel.getTitle() + " " + novel.getNrPages() + ".");
             System.out.println(atlas.getGenre() + " " + atlas.getTitle() + " " + atlas.getNrPages() + ".");
+            System.out.println(mystery.getGenre() + " " + mystery.getTitle() + " " + mystery.getNrPages() + ".");
         }
     }

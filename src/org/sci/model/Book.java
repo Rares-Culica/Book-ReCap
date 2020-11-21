@@ -8,9 +8,9 @@ public class Book {
     private int nrPages;
     private Double price;
     private String[] author;
-    private String title;
+    protected String title;
     private String isbn;
-    private String editura;
+    protected String publshinghouse;
 
     public Book(Double price){
         this.price = price;
@@ -32,6 +32,10 @@ public class Book {
         this(12,"title");
     }
 
+
+
+
+
     public int getNrPages() {
         return nrPages;
     }
@@ -41,11 +45,11 @@ public class Book {
     }
 
     public String getEditura(){
-        return this.editura + " by RaresC";
+        return this.publshinghouse + " by RaresC";
     }
 
     public void setEditura(String numeEditura){
-        this.editura = numeEditura;
+        this.publshinghouse = numeEditura;
     }
 
     public Double getPrice() {
@@ -90,7 +94,7 @@ public class Book {
                 Arrays.equals(this.author, receiveBook.author) &&
                 Objects.equals(this.title, receiveBook.title) &&
                 Objects.equals(this.isbn, receiveBook.isbn) &&
-                Objects.equals(this.editura, receiveBook.editura);
+                Objects.equals(this.publshinghouse, receiveBook.publshinghouse);
         return b;
 
     }
