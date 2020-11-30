@@ -11,7 +11,22 @@ public class AtlasService {
 
         }
 
+    //CRUD
 
+    public Atlas createAtlas(Atlas atlas){
+            return atlasRepo.createAtlas(atlas);
+    }
 
+    public Atlas readAtlas(Atlas atlas){
+            return atlasRepo.readAtlas(atlas);
+    }
+
+    public Atlas updateAtlas(Atlas atlas){
+            return atlasRepo.update(atlas);
+    }
+
+    public boolean  deleteAtlas(Atlas atlas){
+            return atlasRepo.deleteAtlas(atlas);
+    }
 
 }

@@ -17,3 +17,15 @@ e
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 Y
 )src/main/java/org/sci/repo/AtlasRepo.java,b\e\be17c471442fbdd1fd5a0a0b6a5626959fc0bd66
+^
+.src/main/java/org/sci/util/ConnectionUtil.java,9\4\949d27adef35b37fce80a006c6c663508a1aeb56
+U
+%src/main/java/org/sci/model/Book.java,4\d\4d000c87c431eb3b26f5b738eea12ec7551ff228
+V
+&src/main/java/org/sci/model/Novel.java,6\5\65f4de8687b2f4f07718545d3e3da91a5826a72b
+]
+-src/main/java/org/sci/modelother/Mystery.java,8\a\8ad286c65c3100d14667891fe7f05876b2f48f57
+X
+(src/main/java/org/sci/repo/BookRepo.java,7\d\7d30715e737ba2dd3cccf89e0d35c3d01c916337
+_
+/src/main/java/org/sci/service/NovelService.java,9\5\95fdd62306bb86dba97678a33927898dbb1c4510

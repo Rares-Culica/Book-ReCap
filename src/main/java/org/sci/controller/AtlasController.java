@@ -4,6 +4,5 @@ import org.sci.service.AtlasService;
 
 public class AtlasController {
 
-    private AtlasService atlasService;
 
 }
