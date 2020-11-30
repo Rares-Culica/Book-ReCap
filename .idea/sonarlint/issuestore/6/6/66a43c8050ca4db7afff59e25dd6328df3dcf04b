@@ -1,0 +1,11 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "b12".(¦ÞÀ¯
+M	java:S106""9Replace this use of System.out or System.err by a logger.(—¡Œ*
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(…°íŸ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÁŸýéùÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(™îß«
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(›‡ÀÛùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(á•Ìùþÿÿÿÿ
+>
+java:S1481"(Remove this unused "b12" local variable.(¦ÞÀ¯

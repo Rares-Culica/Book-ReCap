@@ -1,0 +1,17 @@
+org\sci\repo\NovelRepo.class
+org\sci\service\BookService.class
+org\sci\Main.class
+org\sci\model\Atlas.class
+org\sci\controller\AtlasController.class
+org\sci\repo\AtlasRepo.class
+org\sci\service\NovelService.class
+org\sci\model\Novel.class
+org\sci\service\marius.class
+org\sci\controller\NovelController.class
+main\java\org\sci\controller\BookController.class
+org\sci\repo\BookRepo.class
+org\sci\modelother\Mystery.class
+org\sci\service\AtlasService.class
+org\sci\model\Book.class
+org\sci\util\ConnectionUtil.class
+org\sci\service\rares.class

@@ -1,0 +1,19 @@
+
+d
+4src/main/java/org/sci/controller/BookController.java,8\e\8e7f15d48147b4ce577d89750051c996d37c8dcb
+O
+src/main/java/org/sci/Main.java,6\6\66a43c8050ca4db7afff59e25dd6328df3dcf04b
+^
+.src/main/java/org/sci/service/BookService.java,6\b\6bf3761f0b900c1bf0f33220b321f870b46cf31a
+_
+/src/main/java/org/sci/service/AtlasService.java,8\a\8a16b53968ed86d4acb61800216f71a6c75dac16
+Y
+)src/main/java/org/sci/repo/NovelRepo.java,1\f\1fad644109f4110c075c66b5dbce8bd84a0337d7
+e
+5src/main/java/org/sci/controller/NovelController.java,a\1\a1d4983f35506f7c748e1f13dc952f78c3ef94fb
+e
+5src/main/java/org/sci/controller/AtlasController.java,7\3\73c87bb700943cc7034cf9d6bb5a4eb748e317d5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Y
+)src/main/java/org/sci/repo/AtlasRepo.java,b\e\be17c471442fbdd1fd5a0a0b6a5626959fc0bd66
