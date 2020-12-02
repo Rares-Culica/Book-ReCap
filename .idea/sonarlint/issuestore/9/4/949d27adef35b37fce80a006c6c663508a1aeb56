@@ -1,9 +1,10 @@
 
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ò°ª
-I
-java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°
-H
-java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
-F
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ıªì²üÿÿÿÿ8””ŒÇá.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ŒÔÕıÿÿÿÿ8ˆ¼£Åá.
+P
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(õ¦ü£8ò³’Åá.
+d
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(™İ¼8Šô™Çá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ƒçşûÿÿÿÿ8°·¦Åá.
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(õ¦ü£8Ã¥™Åá.

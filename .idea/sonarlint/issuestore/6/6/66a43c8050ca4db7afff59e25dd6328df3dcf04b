@@ -1,11 +1,11 @@
 
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(™îß«8ÜšÒ‰á.
-E
-java:S1481"(Remove this unused "b12" local variable.(¦ŞÀ¯8ÜšÒ‰á.
 T	java:S106""9Replace this use of System.out or System.err by a logger.(—¡Œ*8ÜšÒ‰á.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÁŸıéùÿÿÿÿ8ÜšÒ‰á.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(á•Ìùşÿÿÿÿ8ÜšÒ‰á.
 Z	java:S106&"9Replace this use of System.out or System.err by a logger.(›‡ÀÛùÿÿÿÿ8ÜšÒ‰á.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(…°íŸ8ÜšÒ‰á.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(™îß«8ÜšÒ‰á.
 T
 java:S1854"7Remove this useless assignment to local variable "b12".(¦ŞÀ¯8ÜšÒ‰á.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(á•Ìùşÿÿÿÿ8ÜšÒ‰á.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÁŸıéùÿÿÿÿ8ÜšÒ‰á.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(…°íŸ8ÜšÒ‰á.
+E
+java:S1481"(Remove this unused "b12" local variable.(¦ŞÀ¯8ÜšÒ‰á.

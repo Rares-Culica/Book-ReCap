@@ -1,3 +1,5 @@
 
-M
-java:S1068"0Remove this unused "atlasService" private field.(ÿíÎ—8ŞšÒ‰á.
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ãØ›óÿÿÿÿÿ8´üÉÇá.
+[
+java:S1128"9Remove this unused import 'org.sci.service.AtlasService'.(öÚĞ™øÿÿÿÿ8´üÉÇá.

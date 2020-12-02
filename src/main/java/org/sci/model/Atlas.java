@@ -7,7 +7,7 @@ public class Atlas extends Book{
 
 
 
-    public Atlas(String genre, String publishhouse){
+    public Atlas(){
         super(56,"Wold Map");
         this.genre = genre;
         this.publishhouse = publishhouse;

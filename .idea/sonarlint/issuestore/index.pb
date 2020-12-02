@@ -29,3 +29,5 @@ X
 (src/main/java/org/sci/repo/BookRepo.java,7\d\7d30715e737ba2dd3cccf89e0d35c3d01c916337
 _
 /src/main/java/org/sci/service/NovelService.java,9\5\95fdd62306bb86dba97678a33927898dbb1c4510
+V
+&src/main/java/org/sci/model/Atlas.java,c\e\ce0af754f823769a22c7b2cba3b5adc86f7b4856
